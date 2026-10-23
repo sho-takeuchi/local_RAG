@@ -1,0 +1,4 @@
+## 仮想環境コマンド
+
+source myvenv/bin/activate
+streamlit run local_RAG.py
